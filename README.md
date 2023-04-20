@@ -1,3 +1,3 @@
 # SwiftyCache
 
-A description of this package.
+A simple and lightweight cache written in Swift
